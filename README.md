@@ -35,7 +35,7 @@ The VEnv Manager is a graphical user interface (GUI) application built using Tki
    - Click "Import Packages List" to import a list of packages from a text file and install them.
    - Click "Manage Installed Packages" to view and manage installed packages in the selected environment.
   
-**Screenshot**
+**Screenshot:**
 
 ![image](https://github.com/enoobis/venv-app/assets/62465404/ba829751-4dc0-47e3-8481-f478b1637d25)
 
