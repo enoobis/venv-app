@@ -39,6 +39,9 @@ The VEnv Manager is a graphical user interface (GUI) application built using Tki
 
 ![image](https://github.com/enoobis/venv-app/assets/62465404/ba829751-4dc0-47e3-8481-f478b1637d25)
 
+**Download:**
+https://github.com/enoobis/venv-app/releases/
+
 **Contributing:**
 Contributions, bug reports, and feature requests are welcome. Please feel free to open an issue or submit a pull request.
 
